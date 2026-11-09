@@ -1,0 +1,574 @@
+[
+  {
+    "name": "Artist Spotlight",
+    "slug": "artist-spotlight",
+    "tier": 1,
+    "description": null,
+    "jobs": [
+      "Explore"
+    ],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [
+      "Instagram",
+      "Website"
+    ],
+    "howWeMakeIt": [
+      "Three to five key works chosen",
+      "One quote from the artist",
+      "Chain of Influence link to an archive artist, if there is one",
+      "Artist approval",
+      "Assets cleared"
+    ],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981589850d7a717fa7260",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "From the Vault",
+    "slug": "from-the-vault",
+    "tier": 1,
+    "description": "Resurface an important or overlooked piece of archive material and give it a reason to exist today. The cheapest post we make and the easiest to make badly.",
+    "jobs": [
+      "Explore"
+    ],
+    "jobRationale": "Explore. Pushes people from one post into the archive itself.",
+    "formatSpec": "6–7 frames, 4:5. F1 the artwork uncropped. F2–F5 detail crops. F6 the context, under 60 words. F7 archive CTA.",
+    "frames": [
+      {
+        "label": "F1",
+        "instruction": "the artwork uncropped"
+      },
+      {
+        "label": "F2–F5",
+        "instruction": "detail crops"
+      },
+      {
+        "label": "F6",
+        "instruction": "the context, under 60 words"
+      },
+      {
+        "label": "F7",
+        "instruction": "archive CTA"
+      }
+    ],
+    "aspectRatio": "4:5",
+    "durationSpec": null,
+    "effort": "Low. About 3 hours, one person, no shoot.",
+    "platforms": [
+      "Instagram (primary)",
+      "Website",
+      "Facebook"
+    ],
+    "howWeMakeIt": [
+      "Check the run log: nothing that has run on the account in the last 24 months",
+      "Clear it with Colburn first, before writing. Vault material is the highest-risk category we publish",
+      "Find the reason it matters now: an anniversary, a theme link or a modern echo. No reason, no post",
+      "Clean the scan: a levels and dust pass before it goes near a frame",
+      "Write the claim: sixty words, one thing the reader should believe by the end"
+    ],
+    "watchOut": "“Old thing, isn’t it great” is not a post. If you can’t finish the sentence “this matters because…”, it’s a repost, not a Vault.",
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/402e85f3fa398141897ae93b6dc5031a",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Cover Story",
+    "slug": "cover-story",
+    "tier": 1,
+    "description": "The story behind one cover: how it was made, what got rejected, and where it ended up.",
+    "jobs": [
+      "Reach",
+      "Explore"
+    ],
+    "jobRationale": "Reach + Explore. Covers are our most recognisable asset, and this is the format that gets shared off-platform.",
+    "formatSpec": "5–7 frames, 4:5. F1 the cover full-bleed. F2 the detail people miss. F3–F4 roughs or rejected versions. F5 where it went. F6 CTA.",
+    "frames": [
+      {
+        "label": "F1",
+        "instruction": "the cover full-bleed"
+      },
+      {
+        "label": "F2",
+        "instruction": "the detail people miss"
+      },
+      {
+        "label": "F3–F4",
+        "instruction": "roughs or rejected versions"
+      },
+      {
+        "label": "F5",
+        "instruction": "where it went"
+      },
+      {
+        "label": "F6",
+        "instruction": "CTA"
+      }
+    ],
+    "aspectRatio": "4:5",
+    "durationSpec": null,
+    "effort": "Low to medium. About 4 hours, one person, longer if chasing roughs.",
+    "platforms": [
+      "Instagram (primary)",
+      "Website",
+      "Facebook"
+    ],
+    "howWeMakeIt": [
+      "Asset kit received: Q&A, process photos, roughs, timelapse, portrait",
+      "Roughs or rejected versions chosen for F3–F4. No roughs means it isn’t a Cover Story",
+      "Credits and details checked against the final printed cover",
+      "At least one detail frame: something the reader would miss on a first look",
+      "Artist page on the website",
+      "Cut for paid: the full-bleed cover is our best-performing static ad format. Always supply it, if the cover passes ad policy"
+    ],
+    "watchOut": "No roughs, no controversy, no first appearance? Then it’s a From the Vault. Don’t stretch the format to fit a cover you happen to like.",
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981eea1dae8014df71bc8",
+      "https://app.notion.com/p/401e85f3fa3981589850d7a717fa7260",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Essential Reading",
+    "slug": "essential-reading",
+    "tier": 1,
+    "description": "A curated reading list built around one theme, artist or character. Our highest-saving format and the most reliable driver of archive and membership clicks.",
+    "jobs": [
+      "Explore",
+      "Act"
+    ],
+    "jobRationale": "Explore + Act. The clearest route from a scroll to a subscription. Always ends on the archive.",
+    "formatSpec": "6–8 frames, 4:5. F1 theme title over the strongest artwork. F2–F6 one story each: title, creators, volume and issue, one line on why. F7 CTA.",
+    "frames": [
+      {
+        "label": "F1",
+        "instruction": "theme title over the strongest artwork"
+      },
+      {
+        "label": "F2–F6",
+        "instruction": "one story each: title, creators, volume and issue, one line on why"
+      },
+      {
+        "label": "F7",
+        "instruction": "CTA"
+      }
+    ],
+    "aspectRatio": "4:5",
+    "durationSpec": null,
+    "effort": "Low. About 4 hours, one person, no shoot.",
+    "platforms": [
+      "Instagram (primary)",
+      "Website"
+    ],
+    "howWeMakeIt": [
+      "Pick a theme narrow enough to argue with. “Greatest heroines” works, “great stories” doesn’t",
+      "Cap it at five. Four is better",
+      "Number every entry: volume and issue on every frame",
+      "Check every story is actually readable in the archive. If it isn’t there yet, it doesn’t go on the list",
+      "Order it: strongest image first, strongest argument last"
+    ],
+    "watchOut": "This format converts. Never publish it without a working archive or membership link. A saved list with a dead CTA is a wasted post.",
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/402e85f3fa3981319b28e6153612d3e7",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Issue Guide",
+    "slug": "issue-guide",
+    "tier": 1,
+    "description": "A page-by-page breakdown of a single issue: the artists, the stories, the one moment worth the cover price. Works for new releases and archive issues.",
+    "jobs": [
+      "Explore",
+      "Act"
+    ],
+    "jobRationale": "Explore + Act. On a new release it drives the shop. On an archive issue it drives membership.",
+    "formatSpec": "7–9 frames, 4:5. F1 cover + issue number and date. F2 the cover artist. F3–F6 one story each with page range. F7 the standout moment, page and panel. F8 CTA.",
+    "frames": [
+      {
+        "label": "F1",
+        "instruction": "cover + issue number and date"
+      },
+      {
+        "label": "F2",
+        "instruction": "the cover artist"
+      },
+      {
+        "label": "F3–F6",
+        "instruction": "one story each with page range"
+      },
+      {
+        "label": "F7",
+        "instruction": "the standout moment, page and panel"
+      },
+      {
+        "label": "F8",
+        "instruction": "CTA"
+      }
+    ],
+    "aspectRatio": "4:5",
+    "durationSpec": null,
+    "effort": "Medium. About 5 hours, one person, needs the physical issue.",
+    "platforms": [
+      "Instagram (primary)",
+      "Website",
+      "Facebook"
+    ],
+    "howWeMakeIt": [
+      "Get the issue in your hands, or a full scan. Contents pages are unreliable and often omit contributors",
+      "Log every story: title, creators, page range. Build the log before you write a word",
+      "Verify credits against the printed page, not a database or a wiki",
+      "Pick one standout moment and give it a page and panel number",
+      "Route the CTA: a new release goes to the shop (Commerce confirms five weeks out), an archive issue goes to membership"
+    ],
+    "watchOut": "Credits are the thing the comments will catch. If a credit can’t be verified against the printed page, leave the name off rather than guess.",
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/402e85f3fa39812691bed0a840d4dd9d",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Heavy Reading",
+    "slug": "heavy-reading",
+    "tier": 1,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Chain of Influence",
+    "slug": "chain-of-influence",
+    "tier": 1,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "History Of",
+    "slug": "history-of",
+    "tier": 1,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Product Details",
+    "slug": "product-details",
+    "tier": 1,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "This or That",
+    "slug": "this-or-that",
+    "tier": 2,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Studio Visit",
+    "slug": "studio-visit",
+    "tier": 2,
+    "description": "Behind the scenes in one artist’s workspace: the room, the tools, the piece currently on the desk. The room is the story.",
+    "jobs": [
+      "Explore"
+    ],
+    "jobRationale": "Explore. Our most requested format, and the warmest introduction we have to a future affiliate partner.",
+    "formatSpec": "3–5 minutes, 16:9 for YouTube, with vertical cutdowns. Interview plus B-roll, natural light where possible.",
+    "frames": [],
+    "aspectRatio": "16:9",
+    "durationSpec": "3–5 minutes",
+    "effort": "Medium. Two days: half-day shoot, one day edit, half-day cutdowns.",
+    "platforms": [
+      "YouTube (primary)",
+      "Instagram",
+      "Website"
+    ],
+    "howWeMakeIt": [
+      "Recce by video call first: ask them to walk the room on their phone. It’s a shot list and a lighting check in one",
+      "Shoot B-roll before the interview, so you get the room before anyone has moved through it",
+      "Six hero details minimum: the tools, the wall, the reference pile, the mess",
+      "Interview at the desk, not against a wall. Let the room stay in frame",
+      "Cut three verticals, each built around a single object, for Reels and TikTok"
+    ],
+    "watchOut": "Don’t let them tidy. The clutter is the content. If they’ve cleaned for you, ask what they moved and put it back.",
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981008277d7d6b351f1a0",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Behind the Drop",
+    "slug": "behind-the-drop",
+    "tier": 2,
+    "description": "The making of the capsule, from first sample to launch day. Justifies the price before anyone has seen the price.",
+    "jobs": [
+      "Act"
+    ],
+    "jobRationale": "Act. Runs in the two weeks before the drop and does the selling the product page can’t.",
+    "formatSpec": "60–90 seconds, 9:16 primary. Process footage, rejected samples, the maker talking. Cut fast.",
+    "frames": [],
+    "aspectRatio": "9:16",
+    "durationSpec": "60–90 seconds",
+    "effort": "Medium. Filmed across the development window, two-day edit.",
+    "platforms": [
+      "Instagram",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "howWeMakeIt": [
+      "Start filming at sample one. If you start late there is nothing to show and it can’t be recovered",
+      "Keep every rejected sample. Photograph and label each one as it fails",
+      "One person on camera: the designer or the maker, not a committee",
+      "Show a number: sample rounds, stitch count, months in development",
+      "Lock the edit five weeks out, so Commerce can confirm the drop date against it"
+    ],
+    "watchOut": "This only works if you filmed early. It can’t be reconstructed at launch, and staged process footage reads as fake immediately.",
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981748d23c6fe6e23086f",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Artist Capsule",
+    "slug": "artist-capsule",
+    "tier": 2,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "HMM Lives Here",
+    "slug": "hmm-lives-here",
+    "tier": 3,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Collector Files",
+    "slug": "collector-files",
+    "tier": 3,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Community Stories",
+    "slug": "community-stories",
+    "tier": 3,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Heavily Influenced",
+    "slug": "heavily-influenced",
+    "tier": 3,
+    "description": "An artist walks through the films, comics, music and creators that formed them. A lineage interview that places Heavy Metal inside a wider culture.",
+    "jobs": [
+      "Explore"
+    ],
+    "jobRationale": "Explore. Positions the brand as part of a culture rather than the centre of one, and travels through the influences’ audiences too.",
+    "formatSpec": "6–10 minutes, 16:9 with clips, plus a Spotify audio cut. Four to six influences, one segment each, same structure throughout.",
+    "frames": [],
+    "aspectRatio": "16:9",
+    "durationSpec": "6–10 minutes",
+    "effort": "High. Four weeks lead, one shoot day, week-long edit plus clearance.",
+    "platforms": [
+      "YouTube",
+      "Spotify",
+      "Instagram (clips)"
+    ],
+    "howWeMakeIt": [
+      "Get the influence list at booking. The whole shoot is built around it. No list, no date",
+      "Send the influence list to Colburn the day it’s booked. Film stills, album art and third-party comics all need clearing before the shoot",
+      "One segment per influence, same structure. The repetition is the format",
+      "Where a work can’t be cleared, shoot them describing it instead",
+      "Deliver the audio cut for Spotify"
+    ],
+    "watchOut": "Rights on other people’s material, not ours, is what stalls this format.",
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981d8a2c3cad35d490db7",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Collection Film",
+    "slug": "collection-film",
+    "tier": 3,
+    "description": null,
+    "jobs": [],
+    "jobRationale": null,
+    "formatSpec": null,
+    "frames": [],
+    "aspectRatio": null,
+    "durationSpec": null,
+    "effort": null,
+    "platforms": [],
+    "howWeMakeIt": [],
+    "watchOut": null,
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  },
+  {
+    "name": "Collection Lookbook",
+    "slug": "collection-lookbook",
+    "tier": 3,
+    "description": "The definitive visual record of the capsule: campaign imagery, styling and every key piece. The reference asset the whole drop borrows from.",
+    "jobs": [
+      "Act"
+    ],
+    "jobRationale": "Act. Feeds the shop, the ads, wholesale and press for the entire life of the collection.",
+    "formatSpec": "Stills series, 4:5 primary with 16:9 crops. 12–20 images: campaign, on-figure, flat lay. Optional fashion film.",
+    "frames": [],
+    "aspectRatio": "4:5",
+    "durationSpec": null,
+    "effort": "High. Pre-production week, 1–2 shoot days, week-long retouch.",
+    "platforms": [
+      "Instagram (primary)",
+      "Website",
+      "Facebook"
+    ],
+    "howWeMakeIt": [
+      "Lock the shot list against the line sheet: every product on-figure and flat",
+      "Cast and style to the brand, not the season. The archive is the mood board",
+      "Shoot flats the same day, same light",
+      "Retouch to a written standard, so drops still match each other a year later",
+      "Deliver a split pack: social crops, shop imagery, ad crops, press resolution"
+    ],
+    "watchOut": "Everything else borrows from this shoot. Under-shooting it costs far more later than the extra half-day costs now.",
+    "exampleCaption": null,
+    "sourcePages": [
+      "https://app.notion.com/p/401e85f3fa398145a98ededcb48f17cf",
+      "https://app.notion.com/p/401e85f3fa3981429ef8e6a5c5cf5144"
+    ]
+  }
+]
